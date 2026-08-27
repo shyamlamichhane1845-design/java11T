@@ -1,4 +1,4 @@
-public class sub {
+public class Sub {
     public static void main(String[] args) {
         System.out.print("thik xaina")
     }
